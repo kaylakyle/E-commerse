@@ -6,7 +6,7 @@
 # npm i
 
 # add tailwind css
-=======
+
 # how to set up client side...
 
 # Create FRONTEND folder
