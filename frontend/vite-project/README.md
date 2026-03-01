@@ -20,4 +20,4 @@
 # npm install -D tailwind css
 
 # npx tailwind css init 
->>>>>>> 918d192d800c8c35a83bdb81cea2daba146aba04
+
