@@ -8,7 +8,7 @@
 
 # how to set up client side...
 
-# Create FRONTEND folder
+
 
 
 
