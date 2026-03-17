@@ -6,7 +6,7 @@
 
 # add tailwind css
 
-# how to set up client side...
+# how to set up 
 
 
 
