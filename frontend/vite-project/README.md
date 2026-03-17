@@ -2,7 +2,7 @@
 
 # npm create vite@react
 
-# npm i
+
 
 
 
