@@ -4,7 +4,7 @@
 
 # npm i
 
-# add tailwind css
+# add 
 
 
 
