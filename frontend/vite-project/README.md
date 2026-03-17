@@ -10,7 +10,6 @@
 
 # Create FRONTEND folder
 
-# cd FRONTEND - 
 
 
 
