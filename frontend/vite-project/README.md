@@ -16,6 +16,6 @@
 
 # npm install axios react-router-dom react-toastify
 
-# npm install -D tailwind css
+# npm install -D tailwin
 
 
