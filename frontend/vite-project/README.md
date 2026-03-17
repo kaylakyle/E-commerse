@@ -10,7 +10,7 @@
 
 # Create FRONTEND folder
 
-# cd FRONTEND - npm create vite@latest
+# cd FRONTEND - 
 
 
 
